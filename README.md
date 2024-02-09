@@ -1,4 +1,6 @@
-# Django-Backend
+# Django-Backend(Django Rest APIs) 
+![developer](https://img.shields.io/badge/Developed%20By%20%3A-Inzamamul%20Haque%20Ashique-red)
+---
 
 ## HOW TO RUN THIS PROJECT
 - Install Python(3.7.6) (Don't Forget to Tick Add to Path while installing Python)
